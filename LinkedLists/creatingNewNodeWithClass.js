@@ -4,6 +4,7 @@ const LinkedListNode =  class{
         this.next = null
     }
 }
+
 let newNode = new LinkedListNode(20) // [20, null]
 let newNode2 = new LinkedListNode(30)
 
