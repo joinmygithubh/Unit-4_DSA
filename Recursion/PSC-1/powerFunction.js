@@ -6,8 +6,6 @@ function powerFunction (a,b){
         return a * powerFunction(a, b-1)
     }
 }
-
 let a = 2
 let b = 4
-
 console.log(powerFunction(a,b))
