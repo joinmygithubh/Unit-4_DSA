@@ -17,7 +17,6 @@ function recursiveBubbleSort(arr, n) {
         }
     }
 
-    
     recursiveBubbleSort(arr, n - 1);
 }
 
