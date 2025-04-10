@@ -8,7 +8,6 @@ function lengthAndRecursion(str){
         return 1 + lengthAndRecursion(str.slice(1))
     }
 }
-
 let str = "masaischool"
 
 console.log(lengthAndRecursion(str))
