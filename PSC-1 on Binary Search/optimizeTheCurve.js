@@ -16,6 +16,7 @@ function runProgram(input) {
                 low = mid + 1;
             }
         }
+        
         console.log(ans);
     }
 }
