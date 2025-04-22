@@ -1,4 +1,4 @@
-sfunction runProgram(input) {
+function runProgram(input) {
     input = input.trim().split("\n");
     let t = +input[0];
     let line = 1;
