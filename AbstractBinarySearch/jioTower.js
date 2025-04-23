@@ -32,6 +32,7 @@ function canCover(houses, k, range) {
         while (i < n && houses[i] <= loc + range) {
             i++;
         }
+        
     }
     return towers <= k;
 }
