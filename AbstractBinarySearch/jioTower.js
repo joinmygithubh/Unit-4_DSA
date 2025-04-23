@@ -21,7 +21,6 @@ function runProgram(input) {
 
     console.log(ans);
 }
-
 function canCover(houses, k, range) {
     let towers = 0;
     let i = 0;
@@ -34,6 +33,5 @@ function canCover(houses, k, range) {
             i++;
         }
     }
-
     return towers <= k;
 }
