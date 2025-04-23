@@ -36,6 +36,5 @@ function canShip(weights, days, capacity) {
             current += w;
         }
     }
-
     return daysNeeded <= days;
 }
