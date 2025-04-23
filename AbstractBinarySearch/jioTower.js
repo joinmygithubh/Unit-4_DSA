@@ -34,6 +34,5 @@ function canCover(houses, k, range) {
             i++;
         }
     }
-
     return towers <= k;
 }
