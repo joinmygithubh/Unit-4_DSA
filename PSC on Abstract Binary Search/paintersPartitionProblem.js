@@ -41,6 +41,7 @@ function runProgram(input) {
         if (painters > k) return false;
       }
     }
+    
   
     return true;
   }
