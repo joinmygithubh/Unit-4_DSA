@@ -24,8 +24,6 @@ function runProgram(input) {
         low = mid + 1;
       }
     }
-    
-  
     return ans;
   }
   
