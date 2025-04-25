@@ -24,6 +24,7 @@ function runProgram(input) {
         low = mid + 1;
       }
     }
+    
   
     return ans;
   }
@@ -42,7 +43,7 @@ function runProgram(input) {
       }
     }
   
-    
+
     return true;
   }
   
