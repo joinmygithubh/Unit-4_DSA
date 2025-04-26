@@ -40,7 +40,6 @@ function runProgram(input) {
         lastPos = arr[i];
       }
 
-      
       if (count >= cows) return true;
     }
   
