@@ -27,7 +27,6 @@ function runProgram(input) {
     return ans;
   }
   
-  
   function canPaint(arr, n, k, maxTime) {
     let painters = 1;
     let currSum = 0;
