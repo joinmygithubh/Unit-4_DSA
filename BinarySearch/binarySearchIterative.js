@@ -7,7 +7,6 @@ function runProgram(input) {
     let high = n - 1;
      found = false ;
 
-     
     while (low <= high) {
         let mid = Math.floor((low + high) / 2);
         if (arr[mid] === k) {
