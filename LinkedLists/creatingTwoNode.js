@@ -7,6 +7,7 @@ let firstNode = {
 
 let head = firstNode
 
+
 let secondNode = {
     value :20,
     next : null
