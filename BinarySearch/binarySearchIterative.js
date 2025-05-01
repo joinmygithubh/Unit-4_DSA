@@ -5,7 +5,7 @@ function runProgram(input) {
 
     let low = 0;
     let high = n - 1;
-    let found = false;
+     found = false ;
 
     while (low <= high) {
         let mid = Math.floor((low + high) / 2);
