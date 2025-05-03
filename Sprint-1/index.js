@@ -1,1 +1,1 @@
-const test = 'Test'
+const test = 'Initial commit '
