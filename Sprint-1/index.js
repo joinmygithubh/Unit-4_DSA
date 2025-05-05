@@ -7,7 +7,6 @@ function solve(n, m, matrix) {
 
     let midRow = Math.floor(n / 2);
     let midCol = Math.floor(m / 2);
-
     // sum1 (Red swastika)
     // Top row (midCol to m-1)
     for (let j = midCol; j < m; j++) sum1 += matrix[0][j];
