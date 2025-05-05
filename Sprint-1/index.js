@@ -2,8 +2,8 @@
 function solve(n, m, matrix) {
     let sum1 = 0;
     let sum2 = 0;
-
     
+
     let midRow = Math.floor(n / 2);
     let midCol = Math.floor(m / 2);
     // sum1 (Red swastika)
