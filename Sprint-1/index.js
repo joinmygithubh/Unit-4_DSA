@@ -1,7 +1,4 @@
 // const test = 'Initial commit '
-
-
-
 function solve(n, m, matrix) {
     let sum1 = 0;
     let sum2 = 0;
